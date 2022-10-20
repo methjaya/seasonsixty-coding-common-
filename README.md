@@ -1,8 +1,10 @@
 # seasonsixty-coding-common-
 
 ## Welcome Coders !!
-
-<b>Any Coding Language is welcome.</b> If you can't find the language under folders. Create a folder and add your files.
+## READ THIS !!!
+1.<b>Any Coding Language is welcome.</b>  <br>
+2.If you can't find the language under folders. <br> 
+3.Create a folder and add your files. <br>
 
 
 This repo is created by seasonsixty devOps to collaborate your knowledge of GitHub Request Pulling and handling.
